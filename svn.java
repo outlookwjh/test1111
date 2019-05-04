@@ -8,6 +8,7 @@ public class svn {
 		int c;
 
 		int e;
+		int g;
 
 
 
